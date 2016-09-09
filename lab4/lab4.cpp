@@ -40,7 +40,6 @@ int main()
     cashMoney = changeDropped / 100.00;
     
     cout << "The total is $" << originalCashMoney << "." << " After the fee you will recieve $" << cashMoney << " in cash.";
-    //cout << changeDropped << " " << cashMoney;
     return 0;
     
 }
