@@ -5,6 +5,18 @@
 #include <iostream>
 using namespace std;
 
+void copyrights()
+{
+    cout << "  ________                    " << endl;
+    cout << " |____    |                   " << endl;
+    cout << "      /  /                    " << endl;
+    cout << "     /  /   Copyright         " << endl;
+    cout << "    /  /    Zachary Jorgensen " << endl;
+    cout << "   /  /     2016              " << endl;
+    cout << "  /  /____                    " << endl;
+    cout << " |________|                   " << endl;
+}
+
 int main()
 {
     int originalChange = 0;
@@ -39,7 +51,11 @@ int main()
     changeDropped = originalChange - changeDropped;
     cashMoney = changeDropped / 100.00;
     
-    cout << "The total is $" << originalCashMoney << "." << " After the fee you will recieve $" << cashMoney << " in cash.";
+    cout << "The total is $" << originalCashMoney << "." << " After the fee you will recieve $" << cashMoney << " in cash." << endl;
+    
+    copyrights();
+    
     return 0;
+    
     
 }

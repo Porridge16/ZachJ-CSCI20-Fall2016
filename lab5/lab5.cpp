@@ -1,3 +1,6 @@
+// Zachary Jorgensen
+// September 8th 2016
+
 #include <iostream>
 #include <string>
 using namespace std;
