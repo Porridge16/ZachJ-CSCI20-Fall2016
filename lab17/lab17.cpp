@@ -23,7 +23,7 @@ int main() {
         cout << "We will shorten that to the first 20 letters you provided." << endl << endl;
     }
     /*
-    for (int j = 0; j < 20; ++j) { // Print each char // can't get it to stop it at 10 characters
+    for (int j = 0; j < 20; ++j) { // Print each char // can't get it to stop it at 10 character
         cout << userLastName[j];
     }
     */
