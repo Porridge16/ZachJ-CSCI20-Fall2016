@@ -22,7 +22,7 @@ int main() {
     
     cout << "This exercise will allow us to display a grid of numbers while adding them together both horizontally and vertically." << endl;
     cout << "Please enter row one. (Ex: 1 2 3 4)" << endl;
-    getline(cin, inputForRowOne);;
+    getline(cin, inputForRowOne);
     inSS.clear();
     inSS.str(inputForRowOne);
     
