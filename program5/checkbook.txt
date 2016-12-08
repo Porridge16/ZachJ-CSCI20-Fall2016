@@ -1,0 +1,8 @@
+12/6 WellsFargoC 100.00
+12/6 Sears -32.90
+12/8 WellsFargoC +100.00
+12/10 Amazon -60.20
+12/12 WellsFargoC +45.00
+12/13 Amazon -12.00
+12/14 InandOut -5.34
+12/15 AlltheBestVideos -5.97
