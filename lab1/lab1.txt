@@ -1,4 +1,0 @@
-Name: Zachary Jorgensen
-Major: Computer Science
-I'm in this class to learn how to program for both myself and my transfer degree.
-I am hoping to learn how to create my own programs and games.
